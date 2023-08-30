@@ -2,6 +2,18 @@
 
 - i -> insert mode
 - R -> replace mode
+- 0 or o insert line below/above
+- d -> delete motion
+- dw -> delete word
+- d$ -> delete to end of line
+- d0 -> delete begninning of line
+- cw -> change word
+- x -> delete character
+- s -> substitute character
+- u -> undo
+- y -> to copy means y{motion} yy y3j y$ yw
+- p -> paste
+- ~ -> flips the case of a character 
 - v, V, ctrl+V -> types of selection
 - ":help :w open help of w command
 - Basic movement -> hjkl (left, down , up, right)
